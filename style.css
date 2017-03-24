@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Ranga');
+p {
+    font-family: 'Ranga', cursive;
+}
+body {
+    background-color: #3399ff;
+    font-family: 'Ranga', cursive;
+    Background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.Sports:hover {
+    background: #66ff33;
+    
+}
+li {
+    font-size: 20px
+}
+h1 {
+    border: 25px;
+    Width:25%;
+    background-color: White;
+    color: Orange;
+    border-radius: 100%;
+}
+#basketball {
+    font-size: 300%;
+    color: #00ffcc;
+    text-align: center;
+    font-weight: bold; 
+}
+#bball1 {
+        border-radius: 175%;
+        color: blue;
+        text-decoration: underline;
+
+}
+.aboutme {
+    font-family: 'PT Serif', serif;
+    color: white;
+    font-size: 125%;
+    background: linear-gradient(to right, blue, yellow);
+}
+#am {
+    border-radius: 0%;
+    color: yellow;
+    background-color: blue;
+}
+.rap {
+    font-size: 150%;
+}
+.mdy {
+    font-size: 150%;
+    text-align: center;
+}
+#order {
+    font-size: 125%;
+}
